@@ -1,10 +1,10 @@
-#Thomas McCabe's First CS193 Homework
+# Thomas McCabe's First CS193 Homework
 
-#Thomas's favorite things about CS193:
--*It is run by students instead of old professors*
--_The lecture hall has windows_
--'Optional attendance on fridays'
--*Chill vibes during class*
+# Thomas's favorite things about CS193:
+- *It is run by students instead of old professors*
+- _The lecture hall has windows_
+- 'Optional attendance on fridays'
+- *Chill vibes during class*
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
