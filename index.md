@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+#Thomas McCabe's First CS193 Homework
+
+#Thomas's favorite things about CS193:
+-*It is run by students instead of old professors*
+-_The lecture hall has windows_
+-'Optional attendance on fridays'
+-*Chill vibes during class*
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ***markdown
 Syntax highlighted code block
 
-# Header 1 'Thomas's First CS193 Homework'
+# Header 1
 ## Header 2
 ### Header 3
 
