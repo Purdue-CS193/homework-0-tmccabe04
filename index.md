@@ -1,6 +1,6 @@
 # Thomas McCabe's First CS193 Homework
 
-# Thomas's favorite things about CS193:
+### Thomas's favorite things about CS193:
 - *It is run by students instead of old professors*
 - _The lecture hall has windows_
 - 'Optional attendance on fridays'
